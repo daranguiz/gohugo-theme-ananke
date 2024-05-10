@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://urasenkecolorado.org'
 languageCode = 'en-us'
 theme = 'ananke'
 resourceDir = "./resources"
