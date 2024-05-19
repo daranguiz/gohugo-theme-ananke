@@ -1,17 +1,22 @@
 ---
 title: "Welcome"
 omit_header_text: true
-# menu: main
+menus:
+  main:
+    weight: 10
+    name: Home
 
 cascade:
   featured_image: '/images/home_cover.JPG'
 ---
 
-Welcome to the homepage for Urasenke Practitioners in Colorado. Feel free to check back in from time to time as we add more content.
+Urasenke Practitioners in Colorado is a home for those interested in studying the Japanese Way of Tea in the [Urasenke](https://www.urasenke.or.jp/texte/) style. Through personal practice and public outreach, we strive to make tea available for our community.
 
-In the meanwhile, if you are interested in getting involved, please let us know through the [Contact](/contact) link above!
-<!-- 
-{{< rawhtml >}}
+If you are interested in taking lessons, or if you would like to schedule a demonstration, please let us know through the [Contact](/contact) link above. 
+
+
+
+<!-- {{< rawhtml >}}
 <br>
 <div data-behold-id="UAVXPB1k3GaO0MrV5B5K"></div>
 <script>
